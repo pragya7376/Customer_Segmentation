@@ -1,1 +1,1 @@
-# Customer_Segmentation
+# Mall_Customer_Segmentation_by_K-Means
